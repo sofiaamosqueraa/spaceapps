@@ -1,2 +1,2 @@
 # spaceapps
-Projeto do hackathin NASA space apps
+Projeto do hackathon NASA space apps
